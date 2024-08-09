@@ -14,6 +14,7 @@ requirements.txt: Lists required Python packages for the project.
 # Output
 Plant Name: Provides the name of the medicinal plant identified from the input image.
 Model Accuracy: Displays the accuracy metrics of the trained model.
+https://github.com/Divya-Bhagwat/Medicinal-plant-Identification/blob/190337a5dcefa829ab0929bd234da2da03511944/inputs.jpg
 
 # Dataset Used
 Source: [[Dataset source or link](https://data.mendeley.com/datasets/nnytj2v3n5/1)]
